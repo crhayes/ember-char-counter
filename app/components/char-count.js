@@ -1,1 +1,1 @@
-export { default } from 'ember-cli-char-count/components/char-count';
+export { default } from 'ember-char-counter/components/char-count';
