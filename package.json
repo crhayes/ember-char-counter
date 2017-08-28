@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-char-count",
+  "name": "ember-char-counter",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Twitter-style character counter for Ember.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/crhayes/ember-char-counter",
   "engines": {
     "node": ">= 0.10.0"
   },
