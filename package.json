@@ -1,6 +1,6 @@
 {
   "name": "ember-char-counter",
-  "version": "0.0.0",
+  "version": "0.0.5",
   "description": "Twitter-style character counter for Ember.",
   "keywords": [
     "ember-addon"
